@@ -1,2 +1,5 @@
 #!/usr/bin/bash
-Echo Hello
+#
+# huh
+#
+echo Hello
